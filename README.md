@@ -1,4 +1,4 @@
-# WHUTCSbot
+# WeChatBot-Framework
 ## 功能
 - 根据key索引学生相关信息
 
