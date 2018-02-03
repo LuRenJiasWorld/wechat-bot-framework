@@ -59,8 +59,8 @@ $config["Types"] = array(
 );
 
 $config["ui"] = array(
-	"key_error"				=>			"请输入正确的指令！",                                                  //key错误
-	"unsupport_type"		=>			"抱歉，我现在还无法理解你发送的%s消息，请换用文字与我交流~",                  //不支持的类型
-    "default"               =>          "这是默认消息",                                                                 //默认回复
-    "subscribe_event"       =>          "关注事件触发",                                                                 //关注事件
+	"key_error"				=>			"请输入正确的指令！",													//key错误
+	"unsupport_type"		=>			"抱歉，我现在还无法理解你发送的%s消息，请换用文字与我交流~",				//不支持的类型
+    "default"               =>          "这是默认消息",														//默认回复
+    "subscribe_event"       =>          "关注事件触发",														//关注事件
 );
